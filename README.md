@@ -22,3 +22,20 @@ IMS Product Add.ipynb file:
 1>Used to add & update quantity of old products which are already in inventory.
 2>Used to add & update new products in inventory i.e. records.json file.
 3>Used to delete & update data from inventory i.e. records.json file.
+
+............................................................................................................................
+Records.json:
+1>All the records related to product are stored in this file
+2>'Product_Id': {'Product_Name': '',
+  'Product_Company': '',
+  'Quantity_Available': ,
+  'Price( in RS.)': ,
+  'Weight( in gms)':}
+  
+............................................................................................................................
+sales.json:
+1>All transaction details are stored in this file.
+2> 'Transaction_Id': {'Time': ,
+  'Product_Id': ,
+  'Quantity': ,
+  'Amount': }
