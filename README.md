@@ -15,6 +15,7 @@ IMS product_purchase.ipynb file:
 1>Used to genrate bill.
 2>Used to update records of Inventory in records.json file.
 3>Used to update transactions in sales.json file.
+
 .............................................................................................................................
 
 IMS Product Add.ipynb file:
